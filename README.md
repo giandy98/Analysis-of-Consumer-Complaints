@@ -1,5 +1,5 @@
-# Analysis-of-Consumer-Complaints
-Analysis of Consumer Complaints
+# Consumer Complaints Analysis
+Consumer Complaints Analysis
 
 
 This project consists of modifying a spreadsheet on complaints from customers of financial companies, structuring it into three main tabs:
